@@ -1,0 +1,57 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">Carbon View</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string-array name="weight_units">
+        <item>Grams (g)</item>
+        <item>Pounds (lb)</item>
+        <item>Kilograms (kg)</item>
+        <item>Tonnes (mt)</item>
+    </string-array>
+
+    <string-array name="distance_units">
+        <item>Kilometers (km)</item>
+        <item>Miles (mi)</item>
+    </string-array>
+    <string-array name="industry_types">
+        <item>Manufacturing</item>
+        <item>Mining</item>
+        <item>Construction</item>
+    </string-array>
+    <string name="title_activity_company_emissions">Company Emissions</string>
+    <string name="total_vehicles">Total Vehicles</string>
+    <string name="total_kilometers">Total Kilometers</string>
+    <string name="total_emissions">Total Emissions</string>
+    <string name="scope1_title">Scope 1 Emissions</string>
+    <string name="scope2_title">Scope 2 Emissions</string>
+    <string name="scope3_title">Scope 3 Emissions</string>
+    <string name="data_updated">Data updated daily from IoT devices</string>
+    <string name="download_report">Download Report</string>
+
+    <string-array name="date_ranges">
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="fuel_types">
+        <item>Petrol</item>
+        <item>Diesel</item>
+        <item>Gas</item>
+    </string-array>
+
+    <string-array name="transport_methods">
+        <item>Truck</item>
+        <item>Ship</item>
+        <item>Train</item>
+        <item>Plane</item>
+    </string-array>
+
+    <string name="hint_text">a</string>
+    <string name="aboutapp">
+    Welcome to Carbon Footprint Tracker, your ultimate companion in the journey towards a more sustainable lifestyle! Our app is designed to empower individuals and businesses alike to monitor, analyze, and reduce their carbon emissions with ease. By leveraging advanced technology, we provide you with detailed insights into your daily activities—whether it’s your transportation habits, energy consumption, or industrial processes. \n\nWith Carbon Footprint Tracker, you can track your emissions across various categories, including electricity, fuel, flights, and more. Our intuitive dashboard offers real-time data visualization, helping you understand your environmental impact at a glance. We also integrate IoT capabilities, allowing you to connect smart devices for automated tracking of energy usage. \n\nBut that’s not all! Our app provides personalized AI-driven suggestions to help you reduce your carbon footprint, from adopting energy-efficient practices to exploring greener transportation options. You can compare your emissions with global averages, forecast future trends, and even share your progress with friends to inspire others. Join us in making a positive impact on the planet—one step at a time!
+</string>
+    <string name="secure_private"><![CDATA[Secure & Private]]></string>\
+    <string name="gemini_api_key">AIzaSyD6SzAbuHI1tt_TfNqrQijUo1oNKI8mcQU</string>
+
+</resources>
